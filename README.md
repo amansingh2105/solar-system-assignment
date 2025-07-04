@@ -29,4 +29,4 @@ This project is built using [Three.js](https://threejs.org/) for rendering a 3D 
 
 **Aman Kumar**  
 Email: amank143210@gmail.com  
-GitHub: [@amansingh2105](https://github.com/amansingh2105)
+GitHub: [@amansingh2105](https://github.com/amansingh2105/solar-system-assignment)
